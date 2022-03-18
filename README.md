@@ -1,2 +1,2 @@
-# Data-science-case-Globant
-Data science case to get an internal move at Globant.
+# Fraud detection case
+Fraud detection case for bank transactions. Source of data: [https://data.birmingham.gov.uk/dataset/purchase-card-transactions](https://data.birmingham.gov.uk/dataset/purchase-card-transactions)
