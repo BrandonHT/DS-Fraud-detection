@@ -1,2 +1,3 @@
-# Fraud detection case
-Fraud detection case for bank transactions. Source of data: [https://data.birmingham.gov.uk/dataset/purchase-card-transactions](https://data.birmingham.gov.uk/dataset/purchase-card-transactions)
+# Fraud detection
+Compilation of detection of fraudulent transaction projects using some DS techniques. 
+Each project contains its own data set and jupyter notebook, so you can test the solution and develop your solution. 
